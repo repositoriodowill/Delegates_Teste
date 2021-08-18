@@ -1,0 +1,16 @@
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\bin\Debug\net5.0\DelegatesTeste.exe
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\bin\Debug\net5.0\DelegatesTeste.deps.json
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\bin\Debug\net5.0\DelegatesTeste.runtimeconfig.json
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\bin\Debug\net5.0\DelegatesTeste.runtimeconfig.dev.json
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\bin\Debug\net5.0\DelegatesTeste.dll
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\bin\Debug\net5.0\ref\DelegatesTeste.dll
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\bin\Debug\net5.0\DelegatesTeste.pdb
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\obj\Debug\net5.0\DelegatesTeste.csproj.AssemblyReference.cache
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\obj\Debug\net5.0\DelegatesTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\obj\Debug\net5.0\DelegatesTeste.AssemblyInfoInputs.cache
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\obj\Debug\net5.0\DelegatesTeste.AssemblyInfo.cs
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\obj\Debug\net5.0\DelegatesTeste.csproj.CoreCompileInputs.cache
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\obj\Debug\net5.0\DelegatesTeste.dll
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\obj\Debug\net5.0\ref\DelegatesTeste.dll
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\obj\Debug\net5.0\DelegatesTeste.pdb
+C:\Users\william.pacifico\Desktop\Delegates\DelegatesTeste\obj\Debug\net5.0\DelegatesTeste.genruntimeconfig.cache
